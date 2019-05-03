@@ -1,5 +1,5 @@
 # Even-or-Odd
-Prompts the user to enter an integer number from standard input - keyboard and examines whether the number is even or odd.
+Prompts the user to enter an integer number from the standard input - keyboard and examines whether the number is even or odd.
 
 Here is a sample run:
 
